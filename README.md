@@ -23,4 +23,4 @@ Face detection using Haar cascades is a machine learning based approach where a 
 * Run `detect.py` file using `python detect.py` to detect faces in frame.
 
 ## Screenshots:
-![Demo]('/Screenshots/Screenshot (205).png')
+![Demo](/Screenshots/ss2.png)
